@@ -502,6 +502,7 @@
     }
     .mainmenu-area>.container>.row {
         text-align: inherit;
+        background-color: aliceblue;
     }
     .logo-menu {
         position: absolute;
@@ -541,7 +542,7 @@
     .navbar {
         float: inherit;
         height: 90px;
-        background-color: rgba(255, 255, 255, 0.382);
+        background-color: rgba(180, 180, 180, 0.382);
     }
     .navbar-default .navbar-toggle {
         border: none;
